@@ -1,0 +1,12 @@
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.AssemblyInfoInputs.cache
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.AssemblyInfo.cs
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.csproj.CoreCompileInputs.cache
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.sourcelink.json
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.dll
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/refint/pset1.dll
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/pset1.pdb
+/Users/christina/Downloads/6.s057/pset1/pset1.deps.json
+/Users/christina/Downloads/6.s057/pset1/pset1.dll
+/Users/christina/Downloads/6.s057/pset1/obj/Debug/net8.0/ref/pset1.dll
+/Users/christina/Downloads/6.s057/pset1/pset1.pdb
