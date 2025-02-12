@@ -111,7 +111,7 @@ module Pset1 {
   method Reverse(s: seq<int>) returns (r: seq<int>)
     ensures |r| == |s|
     ensures forall i :: 0 <= i < |r| ==> r[i] == s[|s| - 1 - i]
-    ensures forall x :: x in s ==> x in r
+    ensures forall x :: x in s ==> x in r //This ensures that all elements in s are still in r, which allows the test assertions assert smin in srev; and assert smax in srev; to hold.
   {
     if |s| == 0 {
       r := [];
